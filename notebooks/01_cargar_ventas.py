@@ -51,6 +51,8 @@ print("Total de registros:", df_ventas.count())
 
 "----------------------------------------------------------------------------------"
 
+# Código de la segunda celda
+
 # Nombre completo de la tabla en Unity Catalog
 tabla_bronze = "workspace.ingenieria_datos_sebastian.ventas_bronze"
 
